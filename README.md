@@ -137,7 +137,7 @@ pip install pandas numpy matplotlib scikit-learn
 2. Chạy file Python:
 
 ```bash
-python main.py
+MAGIC_Analysis.ipynb
 ```
 
 ---
