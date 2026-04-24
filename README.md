@@ -151,13 +151,6 @@ MAGIC_Analysis.ipynb
 
 ---
 
-## 👨‍💻 Ghi chú
-
-* Có thể thay đổi dataset để thử nghiệm thêm
-* Có thể mở rộng thêm các mô hình như:
-
-  * Naive Bayes
-  * AdaBoost
 
 ---
 
