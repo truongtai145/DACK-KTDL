@@ -153,7 +153,4 @@ MAGIC_Analysis.ipynb
 
 
 
-## 📎 Tài liệu tham khảo
 
-* Scikit-learn Documentation
-* Machine Learning cơ bản
