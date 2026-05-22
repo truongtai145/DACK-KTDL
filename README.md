@@ -75,9 +75,9 @@ Dữ liệu được đọc vào bằng thư viện `pandas`.
 
 | Mô hình       | F1-score  |
 | ------------- | --------- |
-| KNN           |  |
-| Random Forest |  |
-| SVM           |  |
+| KNN           | 0.887 |
+| Random Forest | 0.875|
+| SVM           | 0.845 |
 
 ### Nhận xét:
 
