@@ -75,8 +75,8 @@ Dữ liệu được đọc vào bằng thư viện `pandas`.
 
 | Mô hình       | F1-score  |
 | ------------- | --------- |
-| KNN           | 0.887 |
-| Random Forest | 0.875|
+| KNN           | 0.878 |
+| Random Forest | 0.887|
 | SVM           | 0.845 |
 
 ### Nhận xét:
@@ -147,7 +147,7 @@ MAGIC_Analysis.ipynb
 * Dữ liệu đã được phân tích và trực quan hóa hiệu quả
 * Các mô hình học máy được đánh giá khách quan bằng cross-validation
 * Random Forest là mô hình tốt nhất (trong đa số trường hợp)
-
+  
 
 
 
