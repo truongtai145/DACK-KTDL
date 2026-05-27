@@ -112,7 +112,7 @@ Dữ liệu được đọc vào bằng thư viện `pandas`.
 
 * K-Means phù hợp khi số cụm đã biết trước
 * DBSCAN có khả năng phát hiện nhiễu (noise)
-* Hiệu quả phụ thuộc vào đặc điểm dữ liệu và tham số
+
 
 ---
 
