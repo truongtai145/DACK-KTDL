@@ -122,7 +122,7 @@ Dữ liệu được đọc vào bằng thư viện `pandas`.
 * pandas
 * numpy
 * matplotlib
-* scikit-learn
+
 
 ---
 
