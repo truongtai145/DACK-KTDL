@@ -146,7 +146,7 @@ MAGIC_Analysis.ipynb
 
 * Dữ liệu đã được phân tích và trực quan hóa hiệu quả
 * Các mô hình học máy được đánh giá khách quan bằng cross-validation
-
+* Dữ liệu mô tả khá chuẩn xác với file data .
   
 
 
