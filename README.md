@@ -140,7 +140,7 @@ pip install pandas numpy matplotlib scikit-learn
 MAGIC_Analysis.ipynb
 ```
 
----
+
 
 ## 📌 Kết luận
 
