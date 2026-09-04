@@ -142,11 +142,6 @@ MAGIC_Analysis.ipynb
 
 
 
-## 📌 Kết luận
-
-* Dữ liệu đã được phân tích và trực quan hóa hiệu quả
-* Các mô hình học máy được đánh giá khách quan bằng cross-validation
-
   
 
 
